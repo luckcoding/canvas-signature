@@ -2,10 +2,10 @@
 
 ### use
 
-> var signature = new Signature()
+	var signature = new Signature()
 
-> signature.init()
+	signature.init()
 
-> drawEnd() // default output base64
+	drawEnd() // default output base64
 
 ![sign](https://github.com/luckcoding/canvas-signature/blob/master/sign.png "sign")
